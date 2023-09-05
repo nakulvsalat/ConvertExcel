@@ -1,7 +1,3 @@
-# ConvertExcel
-# to convert numbers into words
-
-
 Function SpellNumber(ByVal MyNumber)
     Dim Units As String
     Dim DecimalPlace As String
